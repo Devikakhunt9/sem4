@@ -1,0 +1,10 @@
+1. print order list
+2. print todays date
+3. get data from 2 files and append it in 3rd files
+4. odd even no
+5. largest from two number
+6. largest from three no
+7. leap year or not
+8. marksheet subjects 
+    PER
+    CLASS [PASS,FIRST,SECOND,DISTINCTION]
