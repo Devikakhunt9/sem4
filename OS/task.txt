@@ -1,0 +1,8 @@
+odered list of file//list
+today's date is...'//date
+take data of 2 file and append in 3rd file
+
+odd even integer
+largest of 2
+largest of 3
+leap year

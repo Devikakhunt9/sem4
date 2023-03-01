@@ -1,0 +1,6 @@
+hello
+good afternoon
+1	nidhi	25000
+2	rhydham	30000
+3	archi	40000
+4	dipesh	45000

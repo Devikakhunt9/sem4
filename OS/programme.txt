@@ -1,0 +1,45 @@
+1. -> file ordered list
+done
+
+2. -> print today's {date} is...
+done
+3. ->1st file  + 2nd file append in third file
+done
+4. ->odd even 
+
+5  ->maximum of two
+6. ->grade system
+7. ->simpal calculator
+8. -> larghest out of 3
+9. ->Leap year
+
+using switch case.....................
+addition multiplication
+marksheet
+month => days (enter 5 => print 31 days{optimizing})
+
+
+
+date : 15-feb-2023
+
+Input String 
+User Name = ""
+3rd String individual
+print in 1 line
+Substring
+1st static start end position
+2nd from User
+
+
+22-02-23
+
+
+1)write a shell scrpit which will print following menu and execute given task
+    1.display calander of current month
+    2.display today's date and time
+    3.display userName that re currently log in system
+    4.display ur Name at given posotion x,y (in graph)
+2)write a shell scrpit to read n no. as a command argumnets and sort them desecending ordered
+3)write a shell scrpit to read n no from file and sort them desecending ordered
+4)write a shell scrpit to read a file and sort them in asending ordered(Line by Line)
+5) same as upon(word by word)

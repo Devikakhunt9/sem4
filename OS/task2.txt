@@ -1,0 +1,44 @@
+print 1 to n
+calculate avg of n numbers(number by user)
+multiplication table of a number(while loop)
+
+f1.txt {1 name salary}
+f2.txt {1 aaa date}
+
+task
+1 middle column data in f3.txt	(cut -f 2 f1.txt f2.txt > new file)
+2 merge two file data with pipe (f4.txt) (paste -d'|' f1.txt f2.txt > neww file)
+3 append f1.txt in new file(not override) (cat f1.txt >> existing file)
+4 print total number of line in f1.txt = ___  (wc -l file name)
+5 print list of file with .txt in new file (find *txt > new file)
+
+
+task 3
+1 check whether file is sorted or not (sort -c file name)
+sort file contains string in reverse order (sort -r file name)
+sort file contains digits in reverse order(sort -nr file name)
+sort below file on salary and insert in another file' (sort -k 3n file name)
+	1	raj	25000
+	2	meet	35000
+	3	jay	75000
+insert line no from 99 in reverse order
+display as per below 
+	no of line and word in f1.txt = _____
+
+write a shell script to print 1 to 10 (using for 1 in 123 syntax)(use print statement instead of echo)
+write a shell script to print 1 to n (using for until and while syntax)
+modify above program such that enter choice if choice is yes then repeat
+avg of n number
+multiplication table 
+factorial of n
+sum of fact
+palindrome number given by user
+range n (palindrome)
+
+(using while loop)
+1. check whether given number is palindrome or not 
+2. list of palindrome
+3. to find value to one number raised to power of another
+4. prime of not
+5. display first n prime number
+ 
